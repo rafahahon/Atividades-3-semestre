@@ -66,8 +66,3 @@ VALUES
 (2, 2),
 (3, 3)
 GO
-
-SELECT * FROM Instrutor;
-SELECT * FROM Curso; 
-SELECT * FROM Aluno;
-SELECT * FROM Matricula;
